@@ -11,7 +11,7 @@ weight: 7
 
 An object is an thing (noun) that has certain characteristics and can perform certain tasks. A Class is the blueprint or definition for that object.
 
-An example is a Person. A Person is Class. A person can have certain characteristics that distinguish it from another person. It can have blue eyes, it can be 30 years old, etc. A person can also perform certain tasks. It can walk, it can talk, etc.
+An example is a Person. A Person is a Class. A person can have certain characteristics that distinguish it from another person. It can have blue eyes, it can be 30 years old, etc. A person can also perform certain tasks. It can walk, it can talk, etc.
 
 A Java Object is an instance of a Java Class. In this instance "Bea" is a "Person". "Bea" has brown eyes. This is a property (or data field) of "Bea". "Bea" can speak in English. "Bea" can speak in Spanish. These are methods that "Bea" can perform.
 
