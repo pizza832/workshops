@@ -11,9 +11,9 @@ weight: 2
 
 Let’s try to write a program that says `Hello World` out by typing the line of code `System.out.print("Hello World");` 
 
-The program prints out whatever you typed in the parenthesis of `System.out.print`. And, each line of code ends with `;`.
+The program prints out whatever you typed in the parenthesis of `System.out.print`. Also, every line of code ends with `;`.
 
-After, add more statements to print numbers by putting numbers in the parenthesis (i.e. `System.out.print(2020)`) or a symbol by putting one symbol between 2 single quotes `'` (i.e. `System.out.print('@')`).
+After this, add more statements to print numbers by putting numbers in the parenthesis (i.e. `System.out.print(2020)`) or a symbol by putting one symbol between 2 single quotes `'` (i.e. `System.out.print('@')`).
 
 <a class="my-2 mx-4 btn btn-info" href="https://replit.com/@nuevofoundation/JavaBasicsHelloWorld" target="_blank">Launch Replit</a>
 
@@ -33,7 +33,7 @@ Go back up and give it a try. Make all the statements print on different lines!
 
 We learned that to print symbols we put them around 2 single quotes `'`, but how do we print multiple symbols in one line?
 
-We can simple put them between 2 double quotes `"` (i.e. `System.out.print("@ , - h A #");`)
+We can simply put them between 2 double quotes `"` (i.e. `System.out.print("@ , - h A #");`)
 
 {{% /notice %}}
 
@@ -69,7 +69,7 @@ Use what you just learn and recreate this owl below using just 4 lines of code! 
 
 {{% notice warning %}}
 #### I got an error!
-
+     
      Main.java:4: error: reached end of file while parsing
 If you get an error like this, it is possible that you forgot to escape chararcters such as `"` and `\`.
 
